@@ -9,12 +9,10 @@
   A 6-hour Data Science project comparing <b>distance-based (KNN)</b>, <b>margin-based (SVM)</b> and <b>probabilistic (Naive Bayes)</b> classifiers.
 </p>
 
-<!-- ▶️ ACTION: replace VIDEO_URL below with the link to your video explanation -->
 <p align="center">
-  <a href="Message_Intelligence_System.ipynb"><img src="https://img.shields.io/badge/📓_Jupyter_Notebook-Open_Project-orange?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-  <a href="Message_Intelligence_System.py"><img src="https://img.shields.io/badge/🐍_Python_Script-View_Code-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="Project_Questions.md"><img src="https://img.shields.io/badge/❓_Project_Questions-View_Questionnaire-2ea44f?style=for-the-badge&logo=markdown&logoColor=white"/></a>
-  <a href="Theory_Concepts_Message_Intelligence.pdf"><img src="https://img.shields.io/badge/📄_Theory_PDF-Download-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://github.com/DevanshiCodesAI/Message_Intelligence_System/blob/main/Message_Intelligence_System.ipynb"><img src="https://img.shields.io/badge/📓_Jupyter_Notebook-Open_Project-orange?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+  <a href="https://docs.google.com/document/d/1yStZgGIGirDzrzjKt0KN0Oi7WPHd4sI7nDEtHlGzVNw/edit?tab=t.0"><img src="https://img.shields.io/badge/❓_Project_Questions-View_Questionnaire-2ea44f?style=for-the-badge&logo=markdown&logoColor=white"/></a>
+  <a href="https://github.com/DevanshiCodesAI/Message_Intelligence_System/blob/main/Theory_Concepts_Message_Intelligence.pdf"><img src="https://img.shields.io/badge/📄_Theory_PDF-Download-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1erLLKMeeCsCAPMwBTLpksw1HS7Tyvr8G/view?usp=sharing"><img src="https://img.shields.io/badge/▶️_Video_Explanation-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
