@@ -15,7 +15,7 @@
   <a href="Message_Intelligence_System.py"><img src="https://img.shields.io/badge/🐍_Python_Script-View_Code-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="Project_Questions.md"><img src="https://img.shields.io/badge/❓_Project_Questions-View_Questionnaire-2ea44f?style=for-the-badge&logo=markdown&logoColor=white"/></a>
   <a href="Theory_Concepts_Message_Intelligence.pdf"><img src="https://img.shields.io/badge/📄_Theory_PDF-Download-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-  <a href="VIDEO_URL"><img src="https://img.shields.io/badge/▶️_Video_Explanation-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1erLLKMeeCsCAPMwBTLpksw1HS7Tyvr8G/view?usp=sharing"><img src="https://img.shields.io/badge/▶️_Video_Explanation-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <p align="center">
